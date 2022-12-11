@@ -196,6 +196,6 @@ Further, we plot ROC-AUC curve and plot the SHAP values.
 
 <img width="526" alt="image" src="https://user-images.githubusercontent.com/71693871/206903915-f361194c-875b-4a32-8339-16fce5212e6f.png">
 
- Conclusion.
+## **Conclusion.**
 The confusion matrix, classification report and many other metrics are obtained and the best values are chosen. Thus we select SVM with a balanced loss function.
 
